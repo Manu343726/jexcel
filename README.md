@@ -1,7 +1,7 @@
 # jexcel
 Love Microsoft Excel? Love Java? This is your tool.
 
-# Description
+## Description
 
 Do you love to work on excel charts, but miss the days you were programming in Java? Don't be sad anymore, with jexcel you can combine both! 
 
