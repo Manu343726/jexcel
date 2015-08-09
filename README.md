@@ -18,8 +18,8 @@ class MyFirstSheet extends SpreadSheetTemplate
     
     public static MyFirstSpreadSheet setup()
     {
-        return SpreadSheetFactory.New<MyFirstSpreadSheet>(new SpreadSheetName("diego_loves_excel.csv"),
-                                                          SpreadSheetFileExtension.Csv,
+        return SpreadSheetFactory.New<MyFirstSpreadSheet>(new SpreadSheetName("diego_loves_excel.xlsx"),
+                                                          SpreadSheetFileExtension.Xlsx,
                                                           new SpreadSheetRows(500),
                                                           new SpreadSheetColumns(20));
     }
